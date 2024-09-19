@@ -1,0 +1,48 @@
+﻿@model IEnumerable<EJEMPLO_CRUD_SP.Models.Inscripcion>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaInscripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdEstudianteNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdMateriaNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaInscripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdEstudianteNavigation.IdEstudiante)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdMateriaNavigation.IdMateria)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdInscripcion">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdInscripcion">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdInscripcion">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

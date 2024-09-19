@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|c:\\users\\user\\desktop\\jeanochoa\\puntonet\\ejemplo crud sp\\ejemplo crud sp\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|solutionrelative:ejemplo crud sp\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|c:\\users\\user\\desktop\\jeanochoa\\puntonet\\ejemplo crud sp\\ejemplo crud sp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|solutionrelative:ejemplo crud sp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|c:\\users\\user\\desktop\\jeanochoa\\puntonet\\ejemplo crud sp\\ejemplo crud sp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|solutionrelative:ejemplo crud sp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|c:\\users\\user\\desktop\\jeanochoa\\puntonet\\ejemplo crud sp\\ejemplo crud sp\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|solutionrelative:ejemplo crud sp\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|c:\\users\\user\\desktop\\jeanochoa\\puntonet\\ejemplo crud sp\\ejemplo crud sp\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|solutionrelative:ejemplo crud sp\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|c:\\users\\user\\desktop\\jeanochoa\\puntonet\\ejemplo crud sp\\ejemplo crud sp\\controllers\\inscripcionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|solutionrelative:ejemplo crud sp\\controllers\\inscripcionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|c:\\users\\user\\desktop\\jeanochoa\\puntonet\\ejemplo crud sp\\ejemplo crud sp\\models\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|solutionrelative:ejemplo crud sp\\models\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|c:\\users\\user\\desktop\\jeanochoa\\puntonet\\ejemplo crud sp\\ejemplo crud sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606BA87A-B15D-4885-AAFF-5057984FE2A3}|EJEMPLO CRUD SP\\EJEMPLO CRUD SP.csproj|solutionrelative:ejemplo crud sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "EJEMPLO CRUD SP\\Views\\Estudiantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "EJEMPLO CRUD SP\\Views\\Estudiantes\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T21:47:27.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EJEMPLO CRUD SP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EJEMPLO CRUD SP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T21:39:35.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MateriasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Controllers\\MateriasController.cs",
+              "RelativeDocumentMoniker": "EJEMPLO CRUD SP\\Controllers\\MateriasController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Controllers\\MateriasController.cs",
+              "RelativeToolTip": "EJEMPLO CRUD SP\\Controllers\\MateriasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:38:55.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "EJEMPLO CRUD SP\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "EJEMPLO CRUD SP\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:38:00.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InscripcionsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Controllers\\InscripcionsController.cs",
+              "RelativeDocumentMoniker": "EJEMPLO CRUD SP\\Controllers\\InscripcionsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Controllers\\InscripcionsController.cs",
+              "RelativeToolTip": "EJEMPLO CRUD SP\\Controllers\\InscripcionsController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:36:55.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Program.cs",
+              "RelativeDocumentMoniker": "EJEMPLO CRUD SP\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Program.cs",
+              "RelativeToolTip": "EJEMPLO CRUD SP\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:23:02.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\appsettings.json",
+              "RelativeDocumentMoniker": "EJEMPLO CRUD SP\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\appsettings.json",
+              "RelativeToolTip": "EJEMPLO CRUD SP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T21:18:54.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UniversidadContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Models\\UniversidadContext.cs",
+              "RelativeDocumentMoniker": "EJEMPLO CRUD SP\\Models\\UniversidadContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\JeanOchoa\\PUNTONET\\EJEMPLO CRUD SP\\EJEMPLO CRUD SP\\Models\\UniversidadContext.cs",
+              "RelativeToolTip": "EJEMPLO CRUD SP\\Models\\UniversidadContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA9wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:15:23.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
